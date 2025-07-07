@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Harry Potter",
+    "description": "Harry James Potter is the famous 'Boy Who Lived' and the central figure of the Harry Potter saga. Born a half-blood wizard in Godric’s Hollow, he was orphaned as an infant when Lord Voldemort murdered his parents. Raised by his unkind Muggle relatives, the Dursleys, Harry discovers on his eleventh birthday that he is a wizard and attends Hogwarts School of Witchcraft and Wizardry, where he is sorted into Gryffindor. Over the years, he becomes a talented wizard, forms Dumbledore’s Army, and eventually works as an Auror at the Ministry of Magic. His Patronus is a stag, and his wand is made of holly with a phoenix feather core."
+  },
+  {
+    "name": "Ron Weasley",
+    "description": "Ronald Bilius Weasley is Harry Potter’s loyal best friend and the sixth of seven children in the pure-blood Weasley family. Sorted into Gryffindor, Ron is known for his bravery, humor, and occasional clumsiness. He has a fear of spiders and a deep love for food. Throughout their time at Hogwarts, Ron stands by Harry’s side through numerous challenges. He helps found Dumbledore’s Army and plays a key role in the Second Wizarding War. After the war, Ron joins the Ministry and later co-manages Weasleys' Wizard Wheezes with his brother George."
+  },
+  {
+    "name": "Hermione Granger",
+    "description": "Hermione Jean Granger is the brightest witch of her age and one of Harry Potter’s closest friends. Born to Muggle parents, Hermione is sorted into Gryffindor and quickly becomes known for her intelligence, diligence, and fierce moral compass. She plays a vital role in nearly every one of Harry’s adventures, often solving problems with logic and encyclopedic magical knowledge. Hermione co-founds Dumbledore’s Army, fights in the Battle of Hogwarts, and later becomes Minister for Magic. Her Patronus is an otter, and her wand is made of vine wood with a dragon heartstring core."
+  },
+  {
+    "name": "James Potter",
+    "description": "James Potter, also known by his nickname 'Prongs', was a gifted wizard and member of the original Order of the Phoenix. Born into a wealthy pure-blood family, he attended Hogwarts where he was sorted into Gryffindor. There, he became close friends with Sirius Black, Remus Lupin, and Peter Pettigrew, forming the Marauders. Known for his talent in Transfiguration and for being a skilled Quidditch Chaser, James was also mischievous and confident in his youth. He married Lily Evans and became the father of Harry Potter. He was tragically murdered by Lord Voldemort while trying to protect his family."
+  },
+  {
+    "name": "Lily Potter",
+    "description": "Lily Potter, born Lily Evans, was a Muggle-born witch renowned for her kindness, intelligence, and exceptional magical talent. She attended Hogwarts and was sorted into Gryffindor, where she became Head Girl in her final year. Despite a rocky start with James Potter, she eventually fell in love with him and they married after graduation. Lily was a member of the Order of the Phoenix and gave birth to Harry Potter. Her sacrificial love for her son became the magical protection that allowed him to survive Voldemort’s killing curse. She was murdered by Voldemort in Godric’s Hollow while protecting Harry."
+  },
+  {
+    "name": "Sirius Black",
+    "description": "Sirius Black, also known as 'Padfoot', was a pure-blood wizard and the first in his family to be sorted into Gryffindor instead of Slytherin. A loyal friend to James Potter, Sirius was a founding member of the Marauders and a key figure in the Order of the Phoenix. Wrongfully imprisoned in Azkaban for twelve years for a crime he did not commit, he later escapes and becomes Harry Potter’s godfather. Brave, impulsive, and fiercely loyal, Sirius plays a fatherly role in Harry’s life until he is tragically killed during the Battle of the Department of Mysteries."
+  },
+  {
+    "name": "Severus Snape",
+    "description": "Severus Snape was a complex and deeply conflicted wizard who served as Potions Master and later Headmaster of Hogwarts. Born to a Muggle father and a witch mother, Snape was sorted into Slytherin and became a talented, if unpopular, student. His unrequited love for Lily Evans defined much of his life and ultimately led him to become a double agent against Lord Voldemort. Though cold and strict, Snape was instrumental in protecting Harry Potter and ultimately sacrificed his life for the greater good. His true loyalty was only revealed after his death, marking him as one of the saga's most tragic heroes."
+  },
+  {
+    "name": "Albus Dumbledore",
+    "description": "Albus Percival Wulfric Brian Dumbledore was one of the greatest wizards of all time and Headmaster of Hogwarts for much of Harry Potter’s time there. Wise, powerful, and often mysterious, Dumbledore played a central role in the fight against both Grindelwald and Voldemort. He founded the Order of the Phoenix and served as a mentor to Harry, guiding him with subtlety and care. Dumbledore's past was marked by personal tragedy and moral complexity, particularly involving his sister Ariana and the Deathly Hallows. His death at the hands of Severus Snape was part of a larger plan to defeat Voldemort."
+  }
+]
