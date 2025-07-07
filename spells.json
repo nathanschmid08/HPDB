@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Accio",
+    "description": "Summons an object from a distance to the caster, regardless of obstacles."
+  },
+  {
+    "name": "Alohomora",
+    "description": "Unlocks doors, windows, and other objects locked by mundane means."
+  },
+  {
+    "name": "Aparecium",
+    "description": "Reveals invisible ink or hidden writings on a surface."
+  },
+  {
+    "name": "Ascendio",
+    "description": "Propels the caster or target rapidly upwards, useful for escaping deep areas."
+  },
+  {
+    "name": "Avada Kedavra",
+    "description": "The Killing Curse causes instant death without pain; one of the Unforgivable Curses."
+  },
+  {
+    "name": "Avis",
+    "description": "Conjures a flock of small birds that fly from the caster's wand tip."
+  },
+  {
+    "name": "Bat-Bogey Hex",
+    "description": "Transforms a target's mucus into large bat-like creatures that attack them."
+  },
+  {
+    "name": "Bubble-Head Charm",
+    "description": "Creates a bubble of air around the head, allowing underwater breathing."
+  },
+  {
+    "name": "Colloportus",
+    "description": "Magically seals doors so they cannot be opened by conventional means."
+  },
+  {
+    "name": "Confringo",
+    "description": "Causes the target to violently explode, often with fire and debris."
+  },
+  {
+    "name": "Confundo",
+    "description": "Confuses and disorients the target, making them susceptible to suggestion."
+  },
+  {
+    "name": "Crucio",
+    "description": "The Cruciatus Curse inflicts unbearable pain on the victim; another Unforgivable Curse."
+  },
+  {
+    "name": "Defodio",
+    "description": "Gouges or digs into the target surface, used to tunnel through materials like rock or earth."
+  },
+  {
+    "name": "Deletrius",
+    "description": "Erases magical effects, such as spell echoes or traces."
+  },
+  {
+    "name": "Densaugeo",
+    "description": "Causes the target's teeth to grow rapidly and grotesquely long."
+  },
+  {
+    "name": "Descendo",
+    "description": "Forces the target object or person to descend or fall downwards."
+  },
+  {
+    "name": "Diffindo",
+    "description": "Slices through objects such as fabric, rope, or paper with precision."
+  },
+  {
+    "name": "Duro",
+    "description": "Turns the target object into solid stone, rendering it immobile and hard."
+  },
+  {
+    "name": "Engorgio",
+    "description": "Enlarges the target object or creature significantly in size."
+  },
+  {
+    "name": "Episkey",
+    "description": "Heals minor injuries such as cuts, bruises, or a broken nose."
+  },
+  {
+    "name": "Evanesco",
+    "description": "Vanishes the target object, removing it from existence completely."
+  },
+  {
+    "name": "Expelliarmus",
+    "description": "Disarms an opponent by forcing them to release whatever they are holding."
+  },
+  {
+    "name": "Expulso",
+    "description": "Causes a violent explosion that blasts the target apart."
+  },
+  {
+    "name": "Ferula",
+    "description": "Conjures bandages and splints to bind and support injured body parts."
+  },
+  {
+    "name": "Fidelius Charm",
+    "description": "Hides a secret within a person's soul, making it undiscoverable unless the Secret Keeper reveals it."
+  },
+  {
+    "name": "Finite",
+    "description": "Ends ongoing spell effects currently in place."
+  },
+  {
+    "name": "Finite Incantatem",
+    "description": "Terminates multiple spell effects or counters minor magical disturbances."
+  },
+  {
+    "name": "Flagrate",
+    "description": "Allows the caster to write in the air with fire, leaving a glowing trail."
+  },
+  {
+    "name": "Flipendo",
+    "description": "Knocks the target backward; used to push or stun creatures and objects."
+  },
+  {
+    "name": "Furnunculus",
+    "description": "Causes the victim to break out in boils or painful skin conditions."
+  },
+  {
+    "name": "Geminio",
+    "description": "Duplicates the target object; duplicates may multiply uncontrollably."
+  },
+  {
+    "name": "Glisseo",
+    "description": "Turns stairs into a smooth slide-like surface for rapid descent."
+  },
+  {
+    "name": "Homenum Revelio",
+    "description": "Reveals the presence of nearby humans, even if hidden or under Invisibility Cloaks."
+  },
+  {
+    "name": "Immobulus",
+    "description": "Freezes objects or creatures in place, preventing any movement."
+  },
+  {
+    "name": "Impedimenta",
+    "description": "Slows down or halts a target, useful for stalling attackers."
+  },
+  {
+    "name": "Imperio",
+    "description": "Places the victim under complete control of the caster's will; an Unforgivable Curse."
+  },
+  {
+    "name": "Impervius",
+    "description": "Repels water, mist, and dirt from the target's surface."
+  },
+  {
+    "name": "Incendio",
+    "description": "Produces fire from the caster's wand tip to ignite objects."
+  },
+  {
+    "name": "Legilimens",
+    "description": "Allows the caster to delve into the thoughts or memories of the target."
+  },
+  {
+    "name": "Levicorpus",
+    "description": "Dangles the target upside down in the air by their ankle."
+  },
+  {
+    "name": "Liberacorpus",
+    "description": "Releases a target from the effects of Levicorpus."
+  },
+  {
+    "name": "Lumos",
+    "description": "Illuminates the tip of the wand, acting like a flashlight."
+  },
+  {
+    "name": "Muffliato",
+    "description": "Fills nearby ears with a buzzing sound to prevent eavesdropping."
+  },
+  {
+    "name": "Nox",
+    "description": "Extinguishes the light produced by the Lumos spell."
+  },
+  {
+    "name": "Obliviate",
+    "description": "Erases or modifies the target's memories."
+  },
+  {
+    "name": "Petrificus Totalus",
+    "description": "Temporarily paralyzes the target, leaving them frozen stiff."
+  },
+  {
+    "name": "Portus",
+    "description": "Turns an object into a Portkey capable of transporting people."
+  },
+  {
+    "name": "Protego",
+    "description": "Creates a magical barrier that deflects spells and physical attacks."
+  },
+  {
+    "name": "Reducto",
+    "description": "Blasts solid objects into pieces or reduces them to dust."
+  },
+  {
+    "name": "Relashio",
+    "description": "Forces whatever is holding or restraining the caster to let go."
+  },
+  {
+    "name": "Rennervate",
+    "description": "Revives a person who has been stunned or knocked unconscious."
+  },
+  {
+    "name": "Reparo",
+    "description": "Repairs broken objects like glass, pottery, or books."
+  },
+  {
+    "name": "Rictusempra",
+    "description": "Tickles the target mercilessly, often causing disarming laughter."
+  },
+  {
+    "name": "Ridikkulus",
+    "description": "Transforms a Boggart into something humorous to defeat it."
+  },
+  {
+    "name": "Scourgify",
+    "description": "Cleans objects or surfaces magically."
+  },
+  {
+    "name": "Sectumsempra",
+    "description": "Causes deep gashes to appear on the target, as if slashed by a sword."
+  },
+  {
+    "name": "Silencio",
+    "description": "Silences the target, preventing them from making any sound."
+  },
+  {
+    "name": "Sonorus",
+    "description": "Amplifies the caster's voice so it can be heard over long distances."
+  },
+  {
+    "name": "Stupefy",
+    "description": "Stuns the target, rendering them unconscious for a short time."
+  },
+  {
+    "name": "Tarantallegra",
+    "description": "Forces the target to dance uncontrollably."
+  },
+  {
+    "name": "Waddiwasi",
+    "description": "Shoots small objects at high speed toward a specific target."
+  },
+  {
+    "name": "Wingardium Leviosa",
+    "description": "Levitate and control small to medium objects in mid-air."
+  }
+]
