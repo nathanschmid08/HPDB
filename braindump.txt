@@ -19,3 +19,19 @@ books
 
 The life and lies of albus dumbledore
 The tails of beedle the barden
+Potions Master
+
+Lockharts books
+---
+Magical Me
+Gilderoy Lockhart's Guide to Household Pests
+Break with a Banshee
+Gadding with Ghouls
+Holidays with Hags
+Travels with Trolls
+Voyages with Vampires
+Wanderings with Werewolves
+Year with the Yeti
+The Travel Trilogy
+Marauding with Monsters
+Who Am I?

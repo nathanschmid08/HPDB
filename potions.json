@@ -1,0 +1,86 @@
+[
+    {
+      "name": "Beautification Potion",
+      "description": "A potion that enhances the drinker's physical appearance, making them more attractive."
+    },
+    {
+      "name": "Felix Felicis",
+      "description": "Also known as Liquid Luck, this potion grants the drinker a limited period of extraordinary good fortune."
+    },
+    {
+      "name": "Aging Potion",
+      "description": "A potion that temporarily ages the drinker, making them appear older than they are."
+    },
+    {
+      "name": "Blood Replenishing Potion",
+      "description": "Used to restore blood lost from injuries; commonly administered at St. Mungo's Hospital."
+    },
+    {
+      "name": "Doxycide",
+      "description": "A black liquid used to knock out Doxies so they can be safely removed."
+    },
+    {
+      "name": "Polyjuice Potion",
+      "description": "Allows the drinker to temporarily assume the physical appearance of another person."
+    },
+    {
+      "name": "Amortentia",
+      "description": "The most powerful love potion in existence; it causes a strong infatuation or obsession."
+    },
+    {
+      "name": "Antidote",
+      "description": "A general or specific potion used to counteract poisons or other harmful effects of potions."
+    },
+    {
+      "name": "Babbling Beverage",
+      "description": "Causes the drinker to speak nonsensically or uncontrollably babble."
+    },
+    {
+      "name": "Baruffio's Brain Elixir",
+      "description": "A potion claimed to boost brain power and enhance mental agility."
+    },
+    {
+      "name": "Boil Cure Potion",
+      "description": "Cures boils and other skin ailments; one of the first potions taught at Hogwarts."
+    },
+    {
+      "name": "Cough Potion",
+      "description": "A simple medicinal potion used to relieve coughing and minor throat irritation."
+    },
+    {
+      "name": "Deflating Draught",
+      "description": "Used to counteract the effects of swelling caused by certain spells or potions."
+    },
+    {
+      "name": "Draught of Peace",
+      "description": "A calming potion that relieves anxiety, agitation, and depression."
+    },
+    {
+      "name": "Elixir to Induce Euphoria",
+      "description": "Produces a feeling of great happiness and well-being; known for side effects like excessive singing."
+    },
+    {
+      "name": "Befuddlement Draught",
+      "description": "Causes confusion and muddled thinking in the drinker."
+    },
+    {
+      "name": "Black Fire Potion",
+      "description": "A mysterious potion possibly used to create or withstand magical black fire."
+    },
+    {
+      "name": "Draught of Living Death",
+      "description": "A powerful sleeping potion that places the drinker in a deathlike slumber."
+    },
+    {
+      "name": "Elixir of Life",
+      "description": "Grants the drinker immortality; created using the Philosopher's Stone."
+    },
+    {
+      "name": "Everlasting Elixirs",
+      "description": "Potions that never lose their magical effects or expire over time."
+    },
+    {
+      "name": "Veritaserum",
+      "description": "A powerful truth serum that forces the drinker to reveal the truth when questioned."
+    }
+]
