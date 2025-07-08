@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Harry Potter and the Philosopher's Stone",
+      "description": "Harry discovers he's a wizard and begins his first year at Hogwarts, where he uncovers the mystery of the Philosopher's Stone."
+    },
+    {
+      "name": "Harry Potter and the Chamber of Secrets",
+      "description": "Harry returns to Hogwarts and faces a hidden chamber, a deadly monster, and secrets about Tom Riddle's past."
+    },
+    {
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "description": "A dangerous fugitive named Sirius Black escapes Azkaban, and Harry learns more about his family's history and betrayal."
+    },
+    {
+      "name": "Harry Potter and the Goblet of Fire",
+      "description": "Harry is unexpectedly entered into the deadly Triwizard Tournament and faces challenges that lead to Voldemort’s return."
+    },
+    {
+      "name": "Harry Potter and the Order of the Phoenix",
+      "description": "As the Ministry denies Voldemort’s return, Harry forms a secret group to prepare for the fight, while facing growing darkness."
+    },
+    {
+      "name": "Harry Potter and the Half-Blood Prince",
+      "description": "Dumbledore shares secrets about Voldemort’s past with Harry, and a mysterious book leads him to the Half-Blood Prince’s identity."
+    },
+    {
+      "name": "Harry Potter and the Deathly Hallows",
+      "description": "Harry, Ron, and Hermione leave Hogwarts to destroy Voldemort’s Horcruxes and face the final battle between good and evil."
+    }
+] 
