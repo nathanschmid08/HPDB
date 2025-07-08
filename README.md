@@ -7,3 +7,4 @@ Finished JSONs:
 - spells.json
 - families.json
 - potions.json
+- quidditch.json

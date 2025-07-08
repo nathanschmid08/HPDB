@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Quidditch",
+      "description": "A magical sport played on flying broomsticks with seven players per team, involving scoring goals with the Quaffle and catching the Golden Snitch."
+    },
+    {
+      "name": "Chaser",
+      "description": "A player who scores goals by throwing the Quaffle through the opposing team's hoops (10 points per goal)."
+    },
+    {
+      "name": "Keeper",
+      "description": "A player who guards the goalposts to prevent the opposing team from scoring."
+    },
+    {
+      "name": "Beater",
+      "description": "A player who uses a bat to hit Bludgers away from teammates and toward opponents."
+    },
+    {
+      "name": "Seeker",
+      "description": "A player who tries to catch the Golden Snitch, earning 150 points and ending the match."
+    },
+    {
+      "name": "Blagging",
+      "description": "Foul: Seizing an opponent’s broom tail to slow them down."
+    },
+    {
+      "name": "Blatching",
+      "description": "Foul: Flying with the intent to collide with an opponent."
+    },
+    {
+      "name": "Blurting",
+      "description": "Foul: Locking broom handles with another player to steer them off course."
+    },
+    {
+      "name": "Bumphing",
+      "description": "Foul: Beaters hitting Bludgers toward spectators, endangering them."
+    },
+    {
+      "name": "Cobbing",
+      "description": "Foul: Using elbows excessively during play."
+    },
+    {
+      "name": "Flacking",
+      "description": "Foul: Keeper defending the goal from behind the hoop."
+    },
+    {
+      "name": "Haversacking",
+      "description": "Foul: Hand still on Quaffle as it passes through the hoop."
+    },
+    {
+      "name": "Quaffle-pocking",
+      "description": "Foul: Tampering with the Quaffle to give advantage."
+    },
+    {
+      "name": "Snitchnip",
+      "description": "Foul: Any player other than the Seeker touching or catching the Snitch."
+    },
+    {
+      "name": "Stooging",
+      "description": "Foul: More than one Chaser entering the scoring area at once."
+    },
+    {
+      "name": "Oakshaft 79",
+      "description": "A sturdy broom with excellent stability, designed for endurance flying."
+    },
+    {
+      "name": "Moontrimmer",
+      "description": "An early racing broom known for altitude and speed, created in 1901."
+    },
+    {
+      "name": "Silver Arrow",
+      "description": "A fast broom model that followed the Moontrimmer, used in early competitions."
+    },
+    {
+      "name": "Cleansweep Series",
+      "description": "A popular racing broom series including Cleansweep 1 through 11."
+    },
+    {
+      "name": "Comet Series",
+      "description": "A family of racing brooms like the Comet 140, 180, and 260."
+    },
+    {
+      "name": "Tinderblast",
+      "description": "A dependable broomstick produced in the 1940s by Ellerby & Spudmore."
+    },
+    {
+      "name": "Swiftstick",
+      "description": "Faster than the Tinderblast but has poor turning control and ascent."
+    },
+    {
+      "name": "Shooting Star",
+      "description": "An affordable broom known to lose speed and control with age."
+    },
+    {
+      "name": "Nimbus Series",
+      "description": "High-performance broomsticks including the Nimbus 1000 through 2001."
+    },
+    {
+      "name": "Twigger 90",
+      "description": "A flashy broom from Flyte and Barker that proved unreliable in competition."
+    },
+    {
+      "name": "Firebolt",
+      "description": "An elite racing broom known for speed, precision, and magical features."
+    },
+    {
+      "name": "Bluebottle",
+      "description": "A lesser-known broom model listed among wizarding families' possessions."
+    },
+    {
+      "name": "Firebolt Supreme",
+      "description": "A World Cup-level broom used by the Bulgarian team in 2014."
+    },
+    {
+      "name": "Starsweeper XXI",
+      "description": "An American-made broom used during the 2014 Quidditch World Cup."
+    },
+    {
+      "name": "Thunderbolt VII",
+      "description": "A fast broom used by the Nigerian national team in 2014."
+    },
+    {
+      "name": "Varåpidos",
+      "description": "A high-end broomstick used by the Brazilian team in 2014."
+    },
+    {
+      "name": "Yajirushi",
+      "description": "A Japanese broom model featured in the 2014 World Cup."
+    },
+    {
+      "name": "Quaffle",
+      "description": "A red leather ball used by Chasers to score goals (10 points each)."
+    },
+    {
+      "name": "Bludger",
+      "description": "A black iron ball that flies around trying to knock players off their brooms."
+    },
+    {
+      "name": "Golden Snitch",
+      "description": "A tiny, winged golden ball that ends the game and awards 150 points to the team whose Seeker catches it."
+    }
+  ]
+  
