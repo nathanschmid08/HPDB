@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Peverell",
+    "description": "A legendary wizarding family. The three Peverell brothers were the original owners of the Deathly Hallows. Harry Potter is descended from Ignotus Peverell."
+  },
+  {
+    "name": "Black",
+    "description": "An ancient pure-blood family known for its strict beliefs in blood purity. Sirius Black, a member of the Order of the Phoenix, rejected these ideals."
+  },
+  {
+    "name": "Bones",
+    "description": "A respected wizarding family. Amelia Bones was head of the Department of Magical Law Enforcement and known for her integrity and bravery."
+  },
+  {
+    "name": "Crouch",
+    "description": "A powerful family involved in politics. Barty Crouch Sr. was a Ministry official; his son Barty Crouch Jr. became a loyal Death Eater."
+  },
+  {
+    "name": "Diggory",
+    "description": "A noble and loyal wizarding family. Cedric Diggory was a popular and talented Hogwarts student who was tragically killed by Voldemort."
+  },
+  {
+    "name": "Gaunt",
+    "description": "A decaying pure-blood family descended from Salazar Slytherin. The Gaunts were known for instability and dark magic; Voldemort was born from this line."
+  },
+  {
+    "name": "Longbottom",
+    "description": "A courageous wizarding family. Neville Longbottom, a key figure in the resistance against Voldemort, is known for his bravery and growth."
+  },
+  {
+    "name": "Malfoy",
+    "description": "A wealthy pure-blood family closely tied to dark magic and the Death Eaters. Draco Malfoy was a school rival of Harry Potter."
+  },
+  {
+    "name": "Potter",
+    "description": "A well-known wizarding family. James and Lily Potter died protecting their son Harry, who became the Chosen One destined to defeat Voldemort."
+  },
+  {
+    "name": "Weasley",
+    "description": "A large, loving pure-blood family known for their kindness, courage, and loyalty. The Weasleys played a central role in the fight against Voldemort."
+  },
+  {
+    "name": "Dursley",
+    "description": "A Muggle family related to Harry Potter through his aunt Petunia. They disapproved of magic and treated Harry poorly during his childhood."
+  },
+  {
+    "name": "Dumbledore",
+    "description": "A powerful and influential wizarding family. Albus Dumbledore, one of the most respected wizards in history, was its most famous member."
+  }
+]
